@@ -1,0 +1,16 @@
+name: kaliv2
+channels:
+  - conda-forge
+dependencies:
+  - python=3
+  - scipy
+  - numpy
+  - pandas
+  - numba
+  - tensorflow
+  - h5py
+  - pytables
+  - matplotlib
+  - jupyter
+  - pylint
+  - pip

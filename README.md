@@ -74,7 +74,11 @@ There are three files (Jupyter notebooks) in the `analysis` directory:
 
 ### Results
 
-Two files aggregate evaluation metrics for the calibration and validation periods: `summary_calibration.npy` and `summary_validation.npy`, respectively. The `figures` subfolder consists of figures that were generated using the `01_results_visualization.ipynb` Jupyter notebook.
+The full results of the conducted experiment can be found in the respective (data repository)[https://doi.org/10.5281/zenodo.4013737] [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4013737.svg)](https://doi.org/10.5281/zenodo.4013737). 
+
+Two files aggregate evaluation metrics for the calibration and validation periods: `summary_calibration.npy` and `summary_validation.npy`, respectively. 
+
+The `figures` subfolder consists of figures that were generated using the `01_results_visualization.ipynb` Jupyter notebook.
 
 
 ### Data availability
